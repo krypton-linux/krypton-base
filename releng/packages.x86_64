@@ -10,11 +10,8 @@ bolt
 brltty
 broadcom-wl
 btrfs-progs
-clonezilla
 cloud-init
 cryptsetup
-darkhttpd
-ddrescue
 dhcpcd
 diffutils
 dmidecode
