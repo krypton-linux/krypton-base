@@ -12,12 +12,12 @@ broadcom-wl
 btrfs-progs
 cloud-init
 cryptsetup
-dhcpcd
 diffutils
 dmidecode
 dmraid
 dnsmasq
 dosfstools
+dhclient
 e2fsprogs
 edk2-shell
 efibootmgr
@@ -71,6 +71,7 @@ mtools
 nano
 nbd
 ndisc6
+networkmanager
 nfs-utils
 nilfs-utils
 nmap
@@ -86,8 +87,6 @@ partclone
 parted
 partimage
 pcsclite
-ppp
-pptpclient
 pv
 qemu-guest-agent
 refind
