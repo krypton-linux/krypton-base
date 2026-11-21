@@ -43,6 +43,7 @@ iwd
 jfsutils
 kitty-terminfo
 kmscon-terminfo
+kmscon
 ldns
 less
 lftp
@@ -75,6 +76,7 @@ networkmanager
 nfs-utils
 nilfs-utils
 nmap
+noto-fonts-cjk
 ntfsprogs
 nvme-cli
 open-iscsi
@@ -124,3 +126,7 @@ xdg-utils
 xfsprogs
 xl2tpd
 zsh
+
+fontconfig
+pango
+mesa
